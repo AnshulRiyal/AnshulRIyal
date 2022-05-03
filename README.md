@@ -40,7 +40,7 @@
 
 
 ### Mood🎧
-[<img src="https://mosaic.scdn.co/640/ab67616d0000b2736b701428ed4c6e053902174aab67616d0000b273b8d6290393056a04acee107dab67616d0000b273cb3f67e8026e2e493a1e8262ab67616d0000b273ed9dc7b9b3fd2df16238592f" alt="anshul Spotify Playing" width="350" />](https://open.spotify.com/embed/playlist/0YCWYdUq0YkKnXWhendZg4)
+[<img src="https://mosaic.scdn.co/640/ab67616d0000b2736b701428ed4c6e053902174aab67616d0000b273b8d6290393056a04acee107dab67616d0000b273cb3f67e8026e2e493a1e8262ab67616d0000b273ed9dc7b9b3fd2df16238592f" alt="anshul Spotify Playing" width="350" />](https://open.spotify.com/playlist/050WmqRNuIPqqweWqLvv1u)
 
 <br/>
 <details>
